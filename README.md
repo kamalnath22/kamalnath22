@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Backend Developer** and a 3rd-year B.Tech Computer Science student at **SRM Institute of Science and Technology, Chennai**, maintaining a CGPA of **9.81/10**.
+I'm a **Backend Developer** and a 3rd-year B.Tech Computer Science student at **SRM Institute of Science and Technology, Chennai**, maintaining a CGPA of **9.77/10**.
 
 I specialize in building **scalable, secure backend systems** using Java, Spring Boot, and Microservices architecture. My work spans designing RESTful APIs, implementing JWT-based authentication with role-based access control, and engineering systems that handle real-world challenges like concurrency, data integrity, and fraud detection.
 
