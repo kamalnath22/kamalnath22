@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Kamal+Nath+U+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Java+%E2%9A%99%EF%B8%8F;+SRM+Chennai+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Kamal+Nath+U+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Java+%E2%9A%99%EF%B8%8F;+SRM+Chennai+%F0%9F%8E%93" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kamal%20Nath%20U&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Microservices%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=16" />
 
